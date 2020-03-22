@@ -213,12 +213,7 @@ margin-bottom: 0.67em;
 }
 .main{
 	background: linear-gradient(to right, #00d65f 10%, #308234 50%, #3f3f3f 50%, #3f3f3f 85%, rgba(63, 63, 63, 0) 100%);
-   /* float: center;
-    width: 70%;
-    height: 1.5em;
-    border-radius: 0.75em 0 0 0.75em;
-    margin: 0.5em 10em 1.25em;
-    margin-left: 15em;*/
+   
     float: center;
     width: 70%;
     height: 40px;

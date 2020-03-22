@@ -27,4 +27,4 @@ for(i=0;i<acc.length;i++)
 var d = new Date();
 document.getElementById('date1').innerHTML = d.getDate()+' / ' + (d.getMonth()+2);
 document.getElementById('date2').innerHTML = d.getDate()+' / '+(d.getMonth()+3);
-document.getElementById('last5').innerHTML = (d.getDate()-1)+' / '+(d.getMonth()+2);
+document.getElementById('last5').innerHTML = (d.getDate())+' / '+(d.getMonth()+2)+' ';
