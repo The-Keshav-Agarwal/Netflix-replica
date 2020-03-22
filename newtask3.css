@@ -120,6 +120,10 @@ button{
 	margin-right: 60px;
 	border: none;
 }
+.container-5 video{
+	margin-right: 40px;
+	margin-top: 10px;
+}
 .box4{
 	font-size: 40px;
 	margin-left: 650px;
@@ -268,13 +272,7 @@ font-size: 30px;
 font-weight: bold;
 margin-top: -37px;
 }
-#month1{
-	position:absolute;
-margin-left: 705px;
-font-size: 30px;
-font-weight: bold;
-margin-top: -37px;
-}
+
 #date2{
 	position:absolute;
 margin-left: 850px;
@@ -282,13 +280,7 @@ font-size: 30px;
 font-weight: bold;
 margin-top: -37px;
 }
-#month2{
-	position:absolute;
-margin-left: 905px;
-font-size: 30px;
-font-weight: bold;
-margin-top: -37px;
-}
+
 #last5{
 	font-size: 25px;
 	display: inline;
